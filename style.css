@@ -1,0 +1,31 @@
+.div1{
+    text-align: center;
+    background-color:blanchedalmond ;
+}
+.div2{
+    text-align: center;
+    background-color:rgb(22, 245, 14) ;
+}
+.div3{
+    text-align: center;
+    background-color:rgb(252, 154, 8) ;
+}
+.div4{
+    text-align: center;
+    background-color:rebeccapurple ;
+}
+.div1:hover{
+    text-align: center;
+    background-color:rgb(51, 226, 17) ;
+}
+.div2:hover{
+    text-align: center;
+    background-color:rgb(92, 13, 240) ;
+}
+.div3:hover{
+    text-align: center;
+    background-color:rgb(233, 13, 13) ;
+}
+.div4:hover{
+    background-color: blue;
+}
